@@ -73,3 +73,47 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
+
+<img class="profile-image big rounded" src="images/avatar.jpg" alt="profile image of Cam"/>
+            
+<h1>
+Hi, I am Cam
+<br>a <span class="highlight navy">Derivatives Trader</span>
+<br>who loves to code.
+</h1>
+
+<p>
+This is my website. 
+<br>
+A place to share <a class="link-1 aqua" href="#comingsoon">posts</a> on things I find interesting. 
+<br>
+A home to host <a class="link-1 aqua" href="#comingsoon">applications</a> I've built in Python.
+<br>
+A library to store open source programming <a class="link-1 aqua" href="#comingsoon">notes</a>. 
+<br> 
+<br> I am passionate about
+<span id="typed"></span>
+<div id="typed-strings">
+<p><span class="highlight green">trading and financial markets.</span></p>
+<p><span class="highlight aqua">technology and innovation.</span></p>
+<p><span class="highlight grey">coding and building apps.</span></p>
+<!-- <p><span class="highlight grey">test <a class="link-1 aqua" href="www.google.com">link</a></span></p> -->
+</div>
+</p>
+               
+<p>Contact me at <a class="link-2 light" href="mailto:cameronmclean.uk@gmail.com">cameronmclean.uk@gmail.com</a></p>
+            
+<p class="is-social-minimal-light">
+    <a class="social-link email" href="mailto:cameronmclean.uk@gmail.com"></a>
+    <a class="social-link github" href="https://github.com/cammclean182" target="_blank"></a>
+    <a class="social-link linkedin" href="https://www.linkedin.com/in/camclean/" target="_blank"></a>
+    <a class="social-link twitter" href="https://twitter.com/cammclean182" target="_blank"></a>
+</p>
+
+</div>
+</div>
+
+<!-- SCRIPTS -->
+<script src="js/main.js"></script>
+    
+</body>
