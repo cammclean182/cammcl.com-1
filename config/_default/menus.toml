@@ -21,7 +21,7 @@
 [[main]]
   name = "Apps"
   url = "apps/"
-  weight = 45
+  weight = 30
 
 [[main]]
   name = "About"

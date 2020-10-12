@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Customfonts"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "HK Grotesk"
+body_font = "HK Grotesk"
+nav_font = "HK Grotesk"
+mono_font = "HK Grotesk"
